@@ -1,2 +1,2 @@
-# PS4HouseDataExercise
-## Predict House Prices using Linear Regression Model
+# PS3 HouseDataExercise
+## Predict House Prices using Neural Networ Model
